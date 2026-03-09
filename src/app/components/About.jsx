@@ -25,14 +25,12 @@ export default function About() {
             <div className={styles.education}>
               <h3 className={styles.educationTitle}>🎓 Formação</h3>
               <div className={styles.educationItem}>
-                <h4>Desenvolvimento de Sistemas</h4>
-                <p className={styles.institution}>SENAI - Valinhos</p>
-                <p className={styles.year}>2025</p>
+                <h4>Engenharia de Computação</h4>
+                <p className={styles.institution}>Formado em Engenharia de Computação</p>
               </div>
               <div className={styles.educationItem}>
-                <h4>Ensino Médio</h4>
-                <p className={styles.institution}>SESI - Valinhos</p>
-                <p className={styles.year}>2025</p>
+                <h4>Tecnologia da Informação</h4>
+                <p className={styles.institution}>Formado em Tecnologia da Informação</p>
               </div>
             </div>
           </div>
